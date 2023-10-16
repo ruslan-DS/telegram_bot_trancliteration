@@ -1,0 +1,26 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @ChangeTranscriptBot id=6601978646 - 'myfirstbot_bot'
+INFO:root:User Руслан with such a custom ID - 711559214 sent message: /start
+INFO:aiogram.event:Update id=458759646 is handled. Duration 327 ms by bot id=6601978646
+INFO:root:User with such custom ID - 711559214 did to transliterate original text Волощенко Руслан Викторович on Voloshchenko Ruslan Viktorovich
+INFO:aiogram.event:Update id=458759647 is handled. Duration 221 ms by bot id=6601978646
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 introduced character - ., that incorrect in our program.
+INFO:root:User with such custom ID - 711559214 did to transliterate original text Волощенко Руслан Викторович............... on Voloshchenko Ruslan Viktorovich
+INFO:aiogram.event:Update id=458759648 is handled. Duration 208 ms by bot id=6601978646
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @ChangeTranscriptBot id=6601978646 - 'myfirstbot_bot'
+INFO:aiogram.dispatcher:Polling stopped
